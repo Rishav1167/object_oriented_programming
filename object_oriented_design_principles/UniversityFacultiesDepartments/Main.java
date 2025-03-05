@@ -9,8 +9,8 @@ public class Main {
         chitkara.addDepartment("MBA");
 
         Faculty f1 = new Faculty("Harry");
-        Faculty f2 = new Faculty("Simon");
-        Faculty f3 = new Faculty("Jack");
+        Faculty f2 = new Faculty("Rishav");
+        Faculty f3 = new Faculty("Aman");
 
         chitkara.addFaculty("MBA", f1);
         chitkara.addFaculty("ECE", f2);

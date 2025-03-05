@@ -12,10 +12,10 @@ public class Main {
         Course physics = new Course("Physics", "PH048");
 
         // Students
-        Student s1 = new Student("Koki", 18);
-        Student s2 = new Student("Simon", 18);
-        Student s3 = new Student("Harry", 18);
-        Student s4 = new Student("Hello", 18);
+        Student s1 = new Student("Aniket", 18);
+        Student s2 = new Student("Aman", 18);
+        Student s3 = new Student("Amol", 18);
+        Student s4 = new Student("Sahil", 18);
 
 
         // Add Students in School

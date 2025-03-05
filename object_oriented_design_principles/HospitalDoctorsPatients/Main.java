@@ -8,8 +8,8 @@ public class Main {
         Doctor ent = new Doctor("Harry", "ENT");
         Doctor cardiologist = new Doctor("John", "Cardiology");
 
-        Patient p1 = new Patient("Jack", 30);
-        Patient p2 = new Patient("Jane", 30);
+        Patient p1 = new Patient("Rishav", 30);
+        Patient p2 = new Patient("Sahil", 30);
 
         fortis.addDoctor(ent);
         fortis.addDoctor(cardiologist);
